@@ -6,6 +6,63 @@ Final-year robotics engineering student at **UPSSITECH** (University of Toulouse
 
 [Portfolio](https://guilhem0908.github.io) · [CV](https://guilhem0908.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/guilhem-carmouze/) · [Email](mailto:l7guilhem@gmail.com)
 
+## Skills
+
+<table>
+<tr>
+<td width="170" valign="middle"><b>3D vision</b></td>
+<td width="620">
+<img src="https://img.shields.io/badge/Gaussian_Splatting-1632D4?style=flat-square" alt="Gaussian Splatting">
+<img src="https://img.shields.io/badge/3DGRUT-1632D4?style=flat-square" alt="3DGRUT">
+<img src="https://img.shields.io/badge/Splatfacto-1632D4?style=flat-square" alt="Splatfacto">
+<img src="https://img.shields.io/badge/COLMAP-1632D4?style=flat-square" alt="COLMAP">
+<img src="https://img.shields.io/badge/OpenCV-1632D4?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+<img src="https://img.shields.io/badge/Equirectangular_geometry-1632D4?style=flat-square" alt="Equirectangular geometry">
+</td>
+</tr>
+<tr>
+<td width="170" valign="middle"><b>Robotics &amp; navigation</b></td>
+<td width="620">
+<img src="https://img.shields.io/badge/ROS_2_Humble-1632D4?style=flat-square&logo=ros&logoColor=white" alt="ROS 2 Humble">
+<img src="https://img.shields.io/badge/MuJoCo-1632D4?style=flat-square" alt="MuJoCo">
+<img src="https://img.shields.io/badge/DISCOVERSE-1632D4?style=flat-square" alt="DISCOVERSE">
+<img src="https://img.shields.io/badge/A%2A_path_planning-1632D4?style=flat-square" alt="A* path planning">
+<img src="https://img.shields.io/badge/Kachaka_API-1632D4?style=flat-square" alt="Kachaka API">
+<img src="https://img.shields.io/badge/Robot_kinematics-1632D4?style=flat-square" alt="Robot kinematics">
+</td>
+</tr>
+<tr>
+<td width="170" valign="middle"><b>Machine learning</b></td>
+<td width="620">
+<img src="https://img.shields.io/badge/PyTorch-1632D4?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+<img src="https://img.shields.io/badge/NumPy-1632D4?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/SciPy-1632D4?style=flat-square&logo=scipy&logoColor=white" alt="SciPy">
+<img src="https://img.shields.io/badge/Video_diffusion-1632D4?style=flat-square" alt="Video diffusion">
+</td>
+</tr>
+<tr>
+<td width="170" valign="middle"><b>Software &amp; tooling</b></td>
+<td width="620">
+<img src="https://img.shields.io/badge/Python-1632D4?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/C-1632D4?style=flat-square&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/C%2B%2B-1632D4?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/TypeScript-1632D4?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-1632D4?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+<br>
+<img src="https://img.shields.io/badge/Git-1632D4?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Linux-1632D4?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+<img src="https://img.shields.io/badge/Docker-1632D4?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Singularity-1632D4?style=flat-square" alt="Singularity">
+<img src="https://img.shields.io/badge/HPC_%28PBS%29-1632D4?style=flat-square" alt="HPC (PBS)">
+<img src="https://img.shields.io/badge/pytest-1632D4?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
+</td>
+</tr>
+<tr>
+<td width="170" valign="middle"><b>Spoken languages</b></td>
+<td width="620">French (native) · English (professional) · Spanish (basic)</td>
+</tr>
+</table>
+
 ## Research internship at AIST, Japan (April to August 2026)
 
 **Creation of a 360° navigation dataset using 3D Gaussian Splatting**, Computer Vision Research Team, Artificial Intelligence Research Center. [Read the case study](https://guilhem0908.github.io/work/aist-360-navigation/).
@@ -69,9 +126,3 @@ How wrong is the splat? EWA linearisation against the unscented transform throug
 </td>
 </tr>
 </table>
-
-## Stack
-
-- **3D vision:** `3D Gaussian Splatting` `COLMAP` `PyTorch` `OpenCV` `equirectangular geometry`
-- **Robotics:** `ROS 2` `MuJoCo` `path planning` `Kachaka API`
-- **Software:** `Python` `C / C++` `TypeScript` `Docker` `Linux` `HPC (PBS, Singularity)`
