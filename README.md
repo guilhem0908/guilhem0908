@@ -4,11 +4,11 @@ Final-year robotics engineering student at **UPSSITECH** (University of Toulouse
 
 **Looking for a 6-month end-of-studies internship from March 2027** in robotics, 3D vision or autonomous navigation.
 
-[Portfolio](https://guilhem0908.github.io) · [LinkedIn](https://www.linkedin.com/in/guilhem-carmouze/) · [Email](mailto:l7guilhem@gmail.com)
+[Portfolio](https://guilhem0908.github.io) · [CV](https://guilhem0908.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/guilhem-carmouze/) · [Email](mailto:l7guilhem@gmail.com)
 
 ## Research internship at AIST, Japan (April to August 2026)
 
-**Creation of a 360° navigation dataset using 3D Gaussian Splatting**, Computer Vision Research Team, Artificial Intelligence Research Center.
+**Creation of a 360° navigation dataset using 3D Gaussian Splatting**, Computer Vision Research Team, Artificial Intelligence Research Center. [Read the case study](https://guilhem0908.github.io/work/aist-360-navigation/).
 
 <a href="https://github.com/guilhem0908/artifixer-360-pipeline"><img src="assets/aist-artifixer-360.jpg" width="100%" alt="The same 360° panorama twice: on the left the raw 3D Gaussian render, full of artefacts; on the right the repaired output"></a>
 
