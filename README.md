@@ -96,7 +96,7 @@ I built the 2D simulator and tooling: sensor model, track loader, viewer. Teamma
 <td width="50%" valign="top">
 <a href="https://github.com/guilhem0908/PFR2"><img src="assets/fil-rouge.jpg" width="100%" alt="A small four-wheel robot next to its live LiDAR scan and the map built from it"></a>
 <b>Projet Fil Rouge</b> (2024 to 2025)<br>
-A real mobile robot built by a team of six. My part: the web Bluetooth HMI, the camera stream and the ball-centring control. Before that, a colour-ball detector in pure C, written with Alec Bossard.<br>
+A real mobile robot built by a team of six. My part: the web Bluetooth HMI, the camera stream and the ball-centring control. Before that, a colour-ball detector in pure C, written with a classmate.<br>
 <a href="https://github.com/guilhem0908/PFR2">PFR2</a> (team repository) · <a href="https://github.com/guilhem0908/PFR">PFR</a>
 </td>
 </tr>
