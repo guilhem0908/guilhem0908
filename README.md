@@ -106,7 +106,7 @@ A real mobile robot built by a team of six. My part: the web Bluetooth HMI, the 
 
 ## Side projects
 
-Personal studies from October 2026 that extend themes of my internship. They were built with AI assistance, and every number in their READMEs is reproduced by a script in the repository.
+Personal studies from October 2026 that extend themes of my internship and team work. They were built with AI assistance, and every number in their READMEs is reproduced by a script in the repository.
 
 <table>
 <tr>
@@ -134,3 +134,10 @@ How wrong is the splat? EWA linearisation against the unscented transform throug
 </td>
 </tr>
 </table>
+
+Four more, each with one measured result:
+
+- **[splat-navmap](https://github.com/guilhem0908/splat-navmap)**: at an opacity threshold of 0.5, 28.8% of A* paths on a grid sliced from a synthetic splat scene enter real geometry with centre counting, 1.6% with footprint accumulation.
+- **[cone-ekf-slam](https://github.com/guilhem0908/cone-ekf-slam)**: EKF-SLAM on simulated Formula Student cone tracks; nearest-neighbour association picks a wrong cone in 17 of 50 runs at 4 m of sensor range, in 1 of 50 at 15 m.
+- **[usine40-cell-pipeline](https://github.com/guilhem0908/usine40-cell-pipeline)**: a simulated Usine 4.0 cell through OPC UA, MQTT, PostgreSQL and Grafana; the stored OEE matches the simulator's event log in every window compared, largest error 0.000 pp.
+- **[visual-quality-gate](https://github.com/guilhem0908/visual-quality-gate)**: PaDiM and PatchCore as a quality gate; a threshold aimed at 5% false rejects refused 10.5% of good parts and let 6.3% of defective ones through.
