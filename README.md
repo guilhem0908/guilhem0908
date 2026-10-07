@@ -137,7 +137,7 @@ How wrong is the splat? EWA linearisation against the unscented transform throug
 
 Four more, each with one measured result:
 
-- **[splat-navmap](https://github.com/guilhem0908/splat-navmap)**: at an opacity threshold of 0.5, 28.8% of A* paths on a grid sliced from a synthetic splat scene enter real geometry with centre counting, 1.6% with footprint accumulation.
+- **[splat-navmap](https://github.com/guilhem0908/splat-navmap)**: on 10 synthetic flats with moderate modelled defects, at an opacity threshold of 0.5, 28.8% of A* paths enter real geometry with centre counting and 1.6% with footprint accumulation (centre counting's own best threshold, 0.3, gives 1.8% but leaves 4.9% of pairs unreachable).
 - **[cone-ekf-slam](https://github.com/guilhem0908/cone-ekf-slam)**: EKF-SLAM on simulated Formula Student cone tracks; nearest-neighbour association picks a wrong cone in 17 of 50 runs at 4 m of sensor range, in 1 of 50 at 15 m.
-- **[usine40-cell-pipeline](https://github.com/guilhem0908/usine40-cell-pipeline)**: a simulated Usine 4.0 cell through OPC UA, MQTT, PostgreSQL and Grafana; the stored OEE matches the simulator's event log in every window compared, largest error 0.000 pp.
-- **[visual-quality-gate](https://github.com/guilhem0908/visual-quality-gate)**: PaDiM and PatchCore as a quality gate; a threshold aimed at 5% false rejects refused 10.5% of good parts and let 6.3% of defective ones through.
+- **[usine40-cell-pipeline](https://github.com/guilhem0908/usine40-cell-pipeline)**: a simulated Industry 4.0 production cell (personal study, separate from the class project) through OPC UA, MQTT, PostgreSQL and Grafana; the stored OEE matches the simulator's event log when no sample is lost, and a 60 s broker outage at QoS 0 breaks 45 of 240 windows.
+- **[visual-quality-gate](https://github.com/guilhem0908/visual-quality-gate)**: PaDiM and PatchCore as a quality gate. With a threshold aimed at 5% false rejects on five MVTec AD categories (3 seeds), PatchCore WR50-10% refused 10.5% of good parts and let 6.3% of defective ones through; PaDiM stayed at 4.7% false rejects but let 38.4% through.
