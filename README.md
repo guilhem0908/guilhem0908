@@ -63,6 +63,14 @@ Final-year robotics engineering student at **UPSSITECH** (University of Toulouse
 </tr>
 </table>
 
+## How I work
+
+- **Written communication.** Twelve dated [weekly notes](https://github.com/guilhem0908/artifixer-360-pipeline/tree/main/docs/weekly_progress) and a [handover guide](https://github.com/guilhem0908/artifixer-360-pipeline/blob/main/docs/HANDOVER.md), public in `artifixer-360-pipeline`.
+- **Working in English.** Four months in a Japanese research lab, and a 29-page [internship report](https://github.com/guilhem0908/artifixer-360-pipeline/blob/main/docs/assets/readme/Rapport_de_stage_2026_CARMOUZE_Guilhem.pdf), all in English.
+- **Rigour and honesty.** I wrote my own acceptance gates, then published [the run that failed them](https://github.com/guilhem0908/artifixer-360-pipeline/blob/main/docs/weekly_progress/2026-08-09.md) with its diagnosis.
+- **Teamwork.** A team of six on the Fil Rouge robot, and the Formula Student driverless team. My repositories state my part and credit teammates by name.
+- **Transparency about AI.** The report's appendix and my side-project READMEs both state where AI tools were used.
+
 ## Research internship at AIST, Japan (April to August 2026)
 
 **Creation of a 360° navigation dataset using 3D Gaussian Splatting**, Computer Vision Research Team, Artificial Intelligence Research Center. [Read the case study](https://guilhem0908.github.io/work/aist-360-navigation/).
