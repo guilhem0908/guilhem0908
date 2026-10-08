@@ -1,6 +1,6 @@
 <a href="https://guilhem0908.github.io"><img src="assets/banner.svg" width="100%" alt="Guilhem Carmouze, robotics engineering student: 3D Gaussian Splatting, 360° vision, robot navigation"></a>
 
-Final-year robotics engineering student at **UPSSITECH** (University of Toulouse, *Systèmes Robotiques et Interactifs*). I work on **3D Gaussian Splatting, 360° vision and robot navigation**, and spent spring and summer 2026 as a research intern at **AIST** in Tsukuba, Japan.
+Final-year robotics engineering student at **UPSSITECH** (University of Toulouse), in the *Systèmes Robotiques et Interactifs* programme: five years of automatic control, real-time software and AI applied to robots that perceive, decide and act. I work on **3D Gaussian Splatting, 360° vision and robot navigation**, and was a research intern at **AIST** in Tsukuba, Japan, in 2026.
 
 **Looking for a 6-month end-of-studies internship from March 2027** in robotics, 3D vision or autonomous navigation.
 
@@ -71,19 +71,20 @@ Final-year robotics engineering student at **UPSSITECH** (University of Toulouse
 - **Teamwork.** A team of six on the Fil Rouge robot, and the Formula Student driverless team. My repositories state my part and credit teammates by name.
 - **Transparency about AI.** The report's appendix and my side-project READMEs both state where AI tools were used.
 
-## Research internship at AIST, Japan (April to August 2026)
+## Engineering school: UPSSITECH, Robotic and Interactive Systems (SRI)
 
-**Creation of a 360° navigation dataset using 3D Gaussian Splatting**, Computer Vision Research Team, Artificial Intelligence Research Center. [Read the case study](https://guilhem0908.github.io/work/aist-360-navigation/).
+A five-year engineering programme of the University of Toulouse (*Diplôme d'ingénieur*, Master's level, CTI-accredited, EUR-ACE label), taught by researchers from **LAAS-CNRS** and **IRIT**. It trains engineers to develop and deploy complete robotic systems, with all the software their autonomy needs.
 
-<a href="https://github.com/guilhem0908/artifixer-360-pipeline"><img src="assets/aist-artifixer-360.jpg" width="100%" alt="The same 360° panorama twice: on the left the raw 3D Gaussian render, full of artefacts; on the right the repaired output"></a>
-
-| Repository | What it does |
+| What the programme builds | In practice |
 | :-- | :-- |
-| **[artifixer-360-pipeline](https://github.com/guilhem0908/artifixer-360-pipeline)** | Plain pinhole video to repaired 360° video: a world-locked rig of 14 views, depth-aware multi-view diffusion consensus and geometry-locked distillation, built on NVIDIA ArtiFixer (+23,602 lines, 119 new tests). Temporal warp error 0.037 to 0.020 on the reference run; the full 154-frame run failed my own acceptance gates, and the repository documents why. |
-| **[nav_3dgs_pano](https://github.com/guilhem0908/nav_3dgs_pano)** | Navigation and panoramic rendering inside a 3DGS scene (DISCOVERSE, MuJoCo): occupancy grid, A*, feathered cubemap-to-equirectangular stitching. |
-| **[KachakaNavigation](https://github.com/guilhem0908/KachakaNavigation)** | ROS 2 Humble robot-side interface for a visual navigation model on the Kachaka robot: stale-frame checks, clamped velocity, dead-man timer. |
+| **A three-part core** | Automatic control, real-time computing and artificial intelligence. |
+| **The perception, decision, action loop** | Multi-sensor perception, decision-making and learning, motion planning and sensorimotor control. |
+| **Interaction** | Multimodal human-robot interaction: image, sound, text, dialogue. |
+| **Every kind of robot** | Industrial arms, mobile robots, humanoids; service, exploration and agricultural robotics. |
+| **A team project every year** | Projet Fil Rouge in the first year of the cycle, a study and research project in the second, and a final-year large-scale project in which the class works as a contractor answering an industrial client's specification. |
+| **Industry 4.0** | The programme names the smart factory (*Usine 4.0*) among its main target sectors. My final-year team project is on Usine 4.0 (in progress, 2026 to 2027). |
 
-## Team projects
+## Projects at school
 
 <table>
 <tr>
@@ -102,7 +103,18 @@ A real mobile robot built by a team of six. My part: the web Bluetooth HMI, the 
 </tr>
 </table>
 
-**Usine 4.0** (Industry 4.0 smart factory): final-year team project, in progress (2026 to 2027).
+
+## Research internship at AIST, Japan (April to August 2026)
+
+**Creation of a 360° navigation dataset using 3D Gaussian Splatting**, Computer Vision Research Team, Artificial Intelligence Research Center. [Read the case study](https://guilhem0908.github.io/work/aist-360-navigation/).
+
+<a href="https://github.com/guilhem0908/artifixer-360-pipeline"><img src="assets/aist-artifixer-360.jpg" width="100%" alt="The same 360° panorama twice: on the left the raw 3D Gaussian render, full of artefacts; on the right the repaired output"></a>
+
+| Repository | What it does |
+| :-- | :-- |
+| **[artifixer-360-pipeline](https://github.com/guilhem0908/artifixer-360-pipeline)** | Plain pinhole video to repaired 360° video: a world-locked rig of 14 views, depth-aware multi-view diffusion consensus and geometry-locked distillation, built on NVIDIA ArtiFixer (+23,602 lines, 119 new tests). Temporal warp error 0.037 to 0.020 on the reference run; the full 154-frame run failed my own acceptance gates, and the repository documents why. |
+| **[nav_3dgs_pano](https://github.com/guilhem0908/nav_3dgs_pano)** | Navigation and panoramic rendering inside a 3DGS scene (DISCOVERSE, MuJoCo): occupancy grid, A*, feathered cubemap-to-equirectangular stitching. |
+| **[KachakaNavigation](https://github.com/guilhem0908/KachakaNavigation)** | ROS 2 Humble robot-side interface for a visual navigation model on the Kachaka robot: stale-frame checks, clamped velocity, dead-man timer. |
 
 ## Side projects
 
